@@ -4,6 +4,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cviko9_subory", "cviko9_subory\cviko9_subory.vcxproj", "{D3BD0E97-884B-48E0-B830-800762710752}"
 EndProject
 Global
+//koment cislo dva skuska
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
 		Release|Win32 = Release|Win32

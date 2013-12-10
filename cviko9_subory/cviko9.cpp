@@ -8,8 +8,7 @@ int vypocet_velkosti() {
 
 	return 0;
 }
-
-
+//komentaris
 void main() {
 	
 	FILE *f;

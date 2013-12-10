@@ -1,0 +1,4 @@
+﻿  cviko9.cpp
+c:\users\jakub\documents\visual studio 2012\projects\cviko9_subory\cviko9_subory\cviko9.cpp(16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+  cviko9_subory.vcxproj -> c:\users\jakub\documents\visual studio 2012\Projects\cviko9_subory\Debug\cviko9_subory.exe
